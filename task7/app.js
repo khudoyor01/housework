@@ -1,24 +1,3 @@
-// let itemsArray = ["Home", "Contact", "Services", "Portfolio"];
-
-// let menu = document.querySelector(".menu");
-
-// itemsArray.forEach(function (item) {
-//   let li = document.createElement("li");
-//   li.textContent = item;
-//   menu.appendChild(li);
-// });
-
-// let items = document.querySelectorAll("li");
-// console.log(items);
-// items.forEach(function (item) {
-//   item.addEventListener("click", function (e) {
-//     items.forEach(function (el) {
-//       el.className = "";
-//     });
-//     item.className = "active";
-//   });
-// });
-
 let firstNumber = document.querySelector(".first");
 let secondNumber = document.querySelector(".second");
 
