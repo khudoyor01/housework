@@ -1,0 +1,19 @@
+.menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  list-style: none;
+}
+
+.menu li {
+  padding: 10px 15px;
+}
+
+.menu li.active {
+  background-color: #000;
+  color: #fff;
+}
+/*# sourceMappingURL=style.css.map */
