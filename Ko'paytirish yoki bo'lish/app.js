@@ -12,3 +12,5 @@ btn.addEventListener("click", () => {
     text.innerHTML = `sonlaringgiz bir xil ekan`;
   }
 });
+
+
